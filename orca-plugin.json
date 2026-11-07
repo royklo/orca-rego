@@ -3,7 +3,7 @@
   "id": "rego-syntax",
   "publisher": "royklo",
   "name": "Rego Syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "execution": "data",
   "description": "Syntax highlighting for Open Policy Agent Rego (.rego) files.",
   "license": "Apache-2.0",
