@@ -1,0 +1,27 @@
+{
+  "manifestVersion": 2,
+  "id": "rego-syntax",
+  "publisher": "royklo",
+  "name": "Rego Syntax",
+  "version": "1.0.0",
+  "execution": "data",
+  "description": "Syntax highlighting for Open Policy Agent Rego (.rego) files.",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/royklo/orca-rego",
+  "engines": {
+    "orca": ">=1.4.245"
+  },
+  "contributes": {
+    "syntaxes": [
+      {
+        "id": "rego",
+        "title": "Rego",
+        "scopeName": "source.rego",
+        "path": "syntaxes/rego.tmLanguage.json",
+        "configuration": "syntaxes/language-configuration.json",
+        "extensions": [".rego"]
+      }
+    ]
+  },
+  "capabilities": []
+}
