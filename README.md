@@ -6,4 +6,4 @@ The TextMate grammar is from the Apache-2.0 licensed [open-policy-agent/vscode-o
 
 ## Install
 
-Requires Orca 1.4.245 or newer. Install from the community catalog at <https://www.onorca.dev/plugins/royklo/orca-rego>.
+Requires Orca 1.4.246 or newer. Install from the community catalog at <https://www.onorca.dev/plugins/royklo/orca-rego>.
